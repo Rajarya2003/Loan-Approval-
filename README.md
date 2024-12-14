@@ -40,7 +40,7 @@ This project focuses on predicting loan approval status using machine learning t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-approval-prediction.git
+   [git clone https://github.com/yourusername/loan-approval-prediction.git]
    ```
 2. Install dependencies:
    ```bash
