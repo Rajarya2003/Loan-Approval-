@@ -1,3 +1,6 @@
+![Loan Approval Project](https://raw.githubusercontent.com/Rajarya2003/Loan-Approval-/main/loan_project_image.png)
+
+
 # Loan Approval Prediction Project
 
 ## Overview
