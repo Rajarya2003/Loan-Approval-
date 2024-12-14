@@ -1,4 +1,9 @@
-![Loan Approval Project](https://raw.githubusercontent.com/Rajarya2003/Loan-Approval-/main/loan_project_image.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rajarya2003/Loan-Approval-/main/loan_approval_image.webp" alt="Loan Approval Project" width="500">
+</div>
+
+
+
 
 
 # Loan Approval Prediction Project
