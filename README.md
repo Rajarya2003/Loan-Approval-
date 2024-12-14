@@ -6,8 +6,6 @@
 
 
 
-Based on the earlier description of your project and the typical structure of a loan approval prediction project, here's a detailed README file summarizing your work:
-
 ---
 
 # Loan Approval Prediction Project
@@ -132,4 +130,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you’d like to tweak any part of this README file!
+
